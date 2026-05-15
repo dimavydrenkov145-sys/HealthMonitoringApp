@@ -1,0 +1,14 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+temp/
